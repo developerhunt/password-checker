@@ -31,14 +31,6 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
-<<<<<<< HEAD
-    "vite": "^6.2.0"
-  },
-  "engines": {
-    "node": ">=16.x",
-    "npm": ">=7.x"
-=======
     "vite": "^5.4.2"
->>>>>>> 747234f6b87f965473bdb5d4cd3f72c61ce0dbb3
   }
 }
