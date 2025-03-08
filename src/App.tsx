@@ -218,6 +218,11 @@ function App() {
             </ul>
           </div>
         </div>
+
+        {/* Footer with hosted by credit */}
+        <div className="text-center mt-12 text-gray-600">
+          <p className="text-sm font-medium">Hosted By <span className="text-indigo-600 font-semibold">PRADEEPKUMAR G</span></p>
+        </div>
       </div>
     </div>
   );
